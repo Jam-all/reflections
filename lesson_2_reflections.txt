@@ -38,7 +38,8 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
-
+	They offer more visual way for branch structure I am currently using, so I can orient myself more quickly also in a quite complex
+	branch structure.
 
 
 
