@@ -51,5 +51,9 @@ the diagram the way we do?
 	The result is one merged branch which contains commits from both branches. We represent it as two separate branches connecting in
 	one commit, because that is what in fact happens.
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges 
 manually?
+
+
+	Automatic merging let's me merge automatically without hassle, however if there is a conflict, it will not merge anything.
+	With manual merging, I have more control of what I am doing, however it is slower.
